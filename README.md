@@ -53,11 +53,11 @@ Start the game once before installing the plugin, then close it again.
 
 ### 2. Download BepInEx
 
-Download **BepInEx 5.4.23.4 or newer BepInEx 5.x x64** from the official BepInEx release page:
+Download **BepInEx 5.4.23.4 or newer BepInEx 5.x x86** from the official BepInEx release page:
 
 [Download BepInEx releases](https://github.com/BepInEx/BepInEx/releases)
 
-Use the Windows x64 version.
+Use the Windows x86 version, x64 won't work!
 
 Do **not** use BepInEx 6 unless this plugin explicitly states support for it.
 
